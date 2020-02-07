@@ -1,0 +1,42 @@
+body{
+    background-color: #121116;
+}
+main{
+    text-align: center;
+}
+.logo{
+ display: inline-block;
+ width: 100%;
+margin-bottom:30px;
+margin-top: 120px;
+}
+.logo img{
+    margin-right: 15px;
+}
+.text{
+    display: inline-block;
+    width: 100%;
+    font-size: 20px;
+    color: white;
+    letter-spacing: 2px;
+}
+.margin{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.margin-bottom{
+    margin-bottom: 20px;
+}
+footer{
+    margin-top: 65px;
+    font-size: 15px;
+    color: white;
+}
+
+.colorblue{
+    color: #19c8fa;
+}
+
+.font{
+    font-family: 'Open Sans', sans-serif;
+}
